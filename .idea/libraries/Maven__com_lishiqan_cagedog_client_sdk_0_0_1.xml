@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.lishiqan:cagedog-client-sdk:0.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Maven/apache-maven-3.8.4/mvn_resp/com/lishiqan/cagedog-client-sdk/0.0.1/cagedog-client-sdk-0.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../Maven/apache-maven-3.8.4/mvn_resp/com/lishiqan/cagedog-client-sdk/0.0.1/cagedog-client-sdk-0.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../Maven/apache-maven-3.8.4/mvn_resp/com/lishiqan/cagedog-client-sdk/0.0.1/cagedog-client-sdk-0.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

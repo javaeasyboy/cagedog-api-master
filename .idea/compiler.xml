@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cagedog-gateway" />
+        <module name="cagedog-client-sdk" />
+        <module name="cagedog-interface" />
+        <module name="cagedog-common" />
+        <module name="cagedog-backend" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cagedog-backend" target="1.8" />
+      <module name="cagedog-client-sdk" target="1.8" />
+      <module name="cagedog-common" target="1.8" />
+      <module name="cagedog-gateway" target="1.8" />
+      <module name="cagedog-interface" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cagedog-backend" options="-parameters" />
+      <module name="cagedog-client-sdk" options="-parameters" />
+      <module name="cagedog-common" options="-parameters" />
+      <module name="cagedog-gateway" options="-parameters" />
+      <module name="cagedog-interface" options="-parameters" />
+    </option>
+  </component>
+</project>

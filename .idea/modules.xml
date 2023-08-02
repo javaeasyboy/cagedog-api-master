@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cagedog-api-master.iml" filepath="$PROJECT_DIR$/cagedog-api-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CageDog-backend/cagedog-backend.iml" filepath="$PROJECT_DIR$/CageDog-backend/cagedog-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cagedog-client-sdk/cagedog-client-sdk.iml" filepath="$PROJECT_DIR$/cagedog-client-sdk/cagedog-client-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CageDog-common/cagedog-common.iml" filepath="$PROJECT_DIR$/CageDog-common/cagedog-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CageDog-gateway/cagedog-gateway.iml" filepath="$PROJECT_DIR$/CageDog-gateway/cagedog-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CageDog-interface/cagedog-interface.iml" filepath="$PROJECT_DIR$/CageDog-interface/cagedog-interface.iml" />
+    </modules>
+  </component>
+</project>

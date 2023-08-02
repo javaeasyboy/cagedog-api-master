@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f4cf1212-697f-4af8-b4c5-ad31bd96e5be" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven\apache-maven-3.8.4\mvn_resp" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../Maven/apache-maven-3.8.4" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.8.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2TQ2xwULJkNY9DSOP0m4djGO18m" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="JavaSE-1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\tool\idea\cagedog-api-master\CageDog-interface" />
+      <recent name="D:\tool\idea\cagedog-api-master\CageDog-gateway" />
+      <recent name="D:\tool\idea\cagedog-api-master\CageDog-common" />
+      <recent name="D:\tool\idea\cagedog-api-master\cagedog-client-sdk" />
+      <recent name="D:\tool\idea\cagedog-api-master\CageDog-backend" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CageDogBackendApplication">
+    <configuration name="CageDogBackendApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cagedog-backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lishiqian.project.CageDogBackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CageDogBackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cagedog-backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lishiqian.cagedogbackend.CageDogBackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CageDogCommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cagedog-common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lishiqian.cagedogcommon.CageDogCommonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CageDogGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cagedog-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lishiqian.cagedoggateway.CageDogGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CageDogInterfaceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cagedog-interface" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lishiqian.cagedoginterface.CageDogInterfaceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CagedogClientSdkApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cagedog-client-sdk" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lishiqian.cagedogclientsdk.CagedogClientSdkApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4cf1212-697f-4af8-b4c5-ad31bd96e5be" name="Changes" comment="" />
+      <created>1690961237229</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690961237229</updated>
+      <workItem from="1690961239096" duration="2136000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
